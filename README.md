@@ -1,8 +1,5 @@
 # Cryptolaxy - Explore the world of Cryptocurrencies
 
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
